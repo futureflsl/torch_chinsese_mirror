@@ -2,6 +2,18 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>torch-2.5.1+cu124-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5ps">下载</a></td></tr>
+<tr><td>torch-2.5.1+cu124-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5pr">下载</a></td></tr>
+<tr><td>torch-2.5.1+cu124-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5pt">下载</a></td></tr>
+<tr><td>torch-2.5.1+cu121-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ckp9p">下载</a></td></tr>
+<tr><td>torch-2.5.1+cu121-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ckp9q">下载</a></td></tr>
+<tr><td>torch-2.5.1+cu121-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52al5pr">下载</a></td></tr>
+<tr><td>torch-2.5.1+cu121-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5yYlpxs">下载</a></td></tr>
+<tr><td>torch-2.5.0+cu124-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5pq">下载</a></td></tr>
+<tr><td>torch-2.4.1+cu124-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5pp">下载</a></td></tr>
+<tr><td>torch-2.4.1+cu124-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5lx">下载</a></td></tr>
+<tr><td>torch-2.4.1+cu124-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5lv">下载</a></td></tr>
+<tr><td>torch-2.4.1+cu124-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5lt">下载</a></td></tr>
 <tr><td>torch-2.3.1+cu121-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5iYm5pr">下载</a></td></tr>
 <tr><td>torch-2.3.1+cu121-cp312-cp312-linux_x86_64.whl</td><td><a href="https://mbd.pub/o/bread/Z5iYm5pq">下载</a></td></tr>
 <tr><td>torch-2.3.1+cu121-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5iYm5pp">下载</a></td></tr>
@@ -359,6 +371,16 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>torchvision-0.21.0+cu126-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZy">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu126-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZdp">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu126-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZq">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu126-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZr">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu126-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZx">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu124-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZt">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu124-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZu">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu124-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZv">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu124-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZw">下载</a></td></tr>
+<tr><td>torchvision-0.21.0+cu124-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZZs">下载</a></td></tr>
 <tr><td>torchvision-0.20.1+cu124-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5WZmp9t">下载</a></td></tr>
 <tr><td>torchvision-0.20.1+cu124-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5WZmp9s">下载</a></td></tr>
 <tr><td>torchvision-0.20.1+cu124-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5WZmp9r">下载</a></td></tr>
@@ -865,6 +887,16 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>torchaudio-2.6.0+cu126-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZhp">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu126-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZdy">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu126-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZdx">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu126-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZdw">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu126-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZhq">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu124-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZhu">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu124-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZht">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu124-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZhs">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu124-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZhr">下载</a></td></tr>
+<tr><td>torchaudio-2.6.0+cu124-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZdv">下载</a></td></tr>
 <tr><td>torchaudio-2.5.1+cu124-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5WZlZhw">下载</a></td></tr>
 <tr><td>torchaudio-2.5.1+cu124-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5WZlZhv">下载</a></td></tr>
 <tr><td>torchaudio-2.5.1+cu124-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z5WZlZhu">下载</a></td></tr>
