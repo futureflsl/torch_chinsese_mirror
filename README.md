@@ -7,6 +7,15 @@
 <tr><td>torch-2.6.0+cu126-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZ9q">下载</a></td></tr>
 <tr><td>torch-2.6.0+cu126-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZ9t">下载</a></td></tr>
 <tr><td>torch-2.6.0+cu126-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJaWlZ9u">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu124-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJackpZw">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu124-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJackpdr">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu124-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJackpds">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu124-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJackpdv">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu118-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJabm55v">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu118-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJabm55y">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu118-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJabm59v">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu118-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/aJackpZt">下载</a></td></tr>
+<tr><td>torch-2.6.0+cu118-cp39-cp39-win_amd6.whl</td><td><a href="https://mbd.pub/o/bread/aJabm51y">下载</a></td></tr>
 <tr><td>torch-2.5.1+cu124-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5ps">下载</a></td></tr>
 <tr><td>torch-2.5.1+cu124-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5pr">下载</a></td></tr>
 <tr><td>torch-2.5.1+cu124-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Z52ck5pt">下载</a></td></tr>
